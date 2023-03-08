@@ -1,0 +1,12 @@
+* {
+  background-color: lightgray;  
+}
+h1 {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 64px;
+    text-align: center;
+}
+.recipe {
+    text-align: center;
+}

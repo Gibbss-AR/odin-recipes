@@ -1,0 +1,10 @@
+* {
+    background-color: lightgray;
+}
+h1 {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 250px;
+}
